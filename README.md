@@ -1,5 +1,5 @@
 # Vice-City-for-SA-MP
-This is a conversion of Vice City from GTA United 1.2 for SA-MP 0.3DL
+This is a conversion of Vice City to SA-MP 0.3dl, as well as OMP.
 
 ## Download Models
 Check the release page for the latest models
@@ -19,5 +19,5 @@ or alternatively:
 1. Download the vicecity.pwn and put it in your filterscript folder, then compile with 0.3DL includes if you wish.
 2. Download the models and put "vc4samp" in models folders.
 3. Put vicecity in the filterscript line in server.cfg or use /rcon loadfs vicecity
-4. Optionally create a folder call "vicecity" in main folder of you server, and place textures.inc in it.
+4. Optionally create a folder called "vicecity" in main folder of you server, and place textures.inc in it.
 4. Use command /gotovc - enjoy the city.
