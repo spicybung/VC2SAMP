@@ -2,6 +2,10 @@
 This is a conversion of Vice City from GTA United 1.2 for SA-MP 0.3DL
 
 ## Download Models
+Check the release page for the latest models
+
+or alternatively:
+
 [http://sharemods.com/kkzd15mvm9g4/vicecity_models_v2_by_niko.zip.html](http://sharemods.com/kkzd15mvm9g4/vicecity_models_v2_by_niko.zip.html)
 
 ## Requeriments
