@@ -16,11 +16,8 @@ or alternatively:
 [foreach](http://forum.sa-mp.com/showthread.php?t=570868) (optional) by Y_Less (OPTIONAL)
 
 ## Installation
-1. Download the vicecity.pwn and put in your filterscript folder, and compile with 0.3DL includes;
+1. Download the vicecity.pwn and put it in your filterscript folder, then compile with 0.3DL includes if you wish.
 2. Download the models and put "vc4samp" in models folders.
-3. Put vicecity in filterscript line in server.cfg or use /rcon loadfs vicecity
-4. (Optional) create folder call "vicecity" in main folder of you server, and put file textures.inc.
-4. Use command /gotovc for enjoy city.
-
-## Important Read
-This projects stay unfinished because I don't have time, and in live time, i making other gamemode in priority. 
+3. Put vicecity in the filterscript line in server.cfg or use /rcon loadfs vicecity
+4. Optionally create a folder call "vicecity" in main folder of you server, and place textures.inc in it.
+4. Use command /gotovc - enjoy the city.
