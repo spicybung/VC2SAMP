@@ -2,11 +2,7 @@
 This is a conversion of Vice City to SA-MP 0.3dl, as well as OMP.
 
 ## Download Models
-Check the release page for the latest models
-
-or alternatively:
-
-[http://sharemods.com/kkzd15mvm9g4/vicecity_models_v2_by_niko.zip.html](http://sharemods.com/kkzd15mvm9g4/vicecity_models_v2_by_niko.zip.html)
+Check the release page for a zip containing the project.
 
 ## Requeriments
 [Streamer](http://forum.sa-mp.com/showthread.php?t=102865) by Incognito
