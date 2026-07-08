@@ -1,5 +1,5 @@
-# Vice-City-for-SA-MP
-This is a conversion of Vice City to SA-MP 0.3dl, as well as OMP.
+# VC2SAMP / VC2OMP
+This is a conversion of Vice City to SA-MP 0.3DL, as well as OMP.
 
 ## Download Models
 Check the release page for a zip containing the project.
