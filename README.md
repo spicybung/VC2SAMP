@@ -47,4 +47,4 @@ Add the filterscript to the `"side_scripts"` array.
 }
 ```
 
-After saving `config.json`, restart your open.mp server. The VCS2OMP filterscript will be loaded automatically on startup.
+After saving `config.json`, restart your open.mp server. The VC2OMP filterscript will be loaded automatically on startup.
