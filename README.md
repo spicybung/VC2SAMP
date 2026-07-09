@@ -41,7 +41,7 @@ Add the filterscript to the `"side_scripts"` array.
             "your_gamemode 1"
         ],
         "side_scripts": [
-            "filterscripts/VCS2OMP"
+            "filterscripts/vice_city"
         ]
     }
 }
