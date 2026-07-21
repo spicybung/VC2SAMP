@@ -4,7 +4,7 @@
 This is a conversion of Vice City to SA-MP 0.3DL, as well as open.multiplayer(OMP).
 
 ## Download Project .ZIP
-Check the release page for a zip containing the project.
+Check the release page for a zip containing the project for SAMP, otherwise you can also download the repo if you're on OMP.
 
 ## Requeriments
 [Streamer](http://forum.sa-mp.com/showthread.php?t=102865) by Incognito
