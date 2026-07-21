@@ -6,12 +6,12 @@ This is a conversion of Vice City to SA-MP 0.3DL, as well as open.multiplayer(OM
 ## Download Project .ZIP
 Check the release page for a zip containing the project for SAMP, otherwise you can also download the repo if you're on OMP.
 
-## Requeriments
+## Requirements
 [Streamer](http://forum.sa-mp.com/showthread.php?t=102865) by Incognito
 
 [ZCMD](http://forum.sa-mp.com/showthread.php?t=91354) by Zeex (OPTIONAL)
 
-[foreach](http://forum.sa-mp.com/showthread.php?t=570868) (optional) by Y_Less (OPTIONAL)
+[foreach](http://forum.sa-mp.com/showthread.php?t=570868) by Y_Less (OPTIONAL - for SAMP)
 
 ## Installation in SAMP
 1. Download the vice_city.pwn and put it in your filterscript folder, then compile with 0.3DL includes if you wish.
