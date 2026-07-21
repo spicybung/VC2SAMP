@@ -1,7 +1,7 @@
 # VC2SAMP / VC2OMP
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 
-This is a conversion of Vice City to SA-MP 0.3DL, as well as OMP.
+This is a conversion of Vice City to SA-MP 0.3DL, as well as open.multiplayer(OMP).
 
 ## Download Project .ZIP
 Check the release page for a zip containing the project.
